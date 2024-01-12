@@ -1,3 +1,3 @@
 # Calendar
 
-### Deployment: https://github.com/anwarali7/calendar
+### Deployment: https://anwarali7.github.io/calendar/

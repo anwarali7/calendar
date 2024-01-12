@@ -1,0 +1,11 @@
+.event {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background-color: rgb(126, 74, 161);
+  box-sizing: border-box;
+  border: 1px solid white;
+  border-radius: 8px;
+}
